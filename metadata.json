@@ -1,0 +1,6 @@
+{
+  "name": "StoryLoop",
+  "description": "Chat. Choose. Discover. A safe, playful social chat rooms and interactive choice-based story game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
